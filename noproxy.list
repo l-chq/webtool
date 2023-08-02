@@ -1,0 +1,15 @@
+# > Gmail
+DOMAIN,pop.gmail.com,Noproxy
+DOMAIN,imap.gmail.com,Noproxy
+DOMAIN,smtp.gmail.com,Noproxy
+
+# > Outlook
+
+DOMAIN,outlook.office365.com,Noproxy
+DOMAIN,smtp.office365.com,Noproxy
+DOMAIN,imap-mail.outlook.com,Noproxy
+DOMAIN,smtp-mail.outlook.com,Noproxy
+
+# > Infomanisk
+
+DOMAIN,mail.infomaniak.com,Noproxy
