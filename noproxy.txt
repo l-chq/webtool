@@ -1,0 +1,9 @@
+payload:
+  - 'mail.infomaniak.com'
+  - 'pop.gmail.com'
+  - 'imap.gmail.com'
+  - 'smtp.gmail.com'
+  - 'outlook.office365.com'
+  - 'smtp.office365.com'
+  - 'imap-mail.outlook.com'
+  - 'smtp-mail.outlook.com'
