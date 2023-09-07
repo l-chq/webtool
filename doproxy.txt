@@ -1,0 +1,4 @@
+payload:
+  - '+.skiff.com'
+  - '+.genius.com'
+  - 'same.energy'
