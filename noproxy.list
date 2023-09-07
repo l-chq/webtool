@@ -1,15 +1,16 @@
 # Gmail
-DOMAIN,pop.gmail.com
-DOMAIN,imap.gmail.com
-DOMAIN,smtp.gmail.com
+
+DOMAIN-SUFFIX,pop.gmail.com
+DOMAIN-SUFFIX,imap.gmail.com
+DOMAIN-SUFFIX,smtp.gmail.com
 
 # Outlook
 
-DOMAIN,outlook.office365.com
-DOMAIN,smtp.office365.com
-DOMAIN,imap-mail.outlook.com
-DOMAIN,smtp-mail.outlook.com
+DOMAIN-SUFFIX,outlook.office365.com
+DOMAIN-SUFFIX,smtp.office365.com
+DOMAIN-SUFFIX,imap-mail.outlook.com
+DOMAIN-SUFFIX,smtp-mail.outlook.com
 
 # Infomanisk
 
-DOMAIN,mail.infomaniak.com
+DOMAIN-SIFFIX,mail.infomaniak.com
