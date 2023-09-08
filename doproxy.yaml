@@ -1,0 +1,14 @@
+payload:
+  # 強制代理列表
+  
+  - DOMAIN-SUFFIX,skiff.com
+  - DOMAIN-SUFFIX,genius.com
+  - DOMAIN-SUFFIX,same.energy
+  - DOMAIN-SUFFIX,kemono.party
+  - DOMAIN-SUFFIX,kemono.su
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,exhentai.org
+  - DOMAIN-SUFFIX,pixel.net
+  - DOMAIN-SUFFIX,ppt.cc
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,bang-olufsen.com
