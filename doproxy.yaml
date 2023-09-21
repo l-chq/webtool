@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,bang-olufsen.com
   - DOMAIN-SUFFIX,mastondon.art
+  - PROCESS-NAME,org.joinmastodon.android
