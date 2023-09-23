@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,bang-olufsen.com
   - DOMAIN-SUFFIX,mastondon.art
   - PROCESS-NAME,org.joinmastodon.android
+  - PROCESS-NAME,com.duolingo
