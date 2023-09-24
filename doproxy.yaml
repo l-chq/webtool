@@ -13,5 +13,7 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,bang-olufsen.com
   - DOMAIN-SUFFIX,mastondon.art
+  - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-SUFFIX,pinterest.ch
   - PROCESS-NAME,org.joinmastodon.android
   - PROCESS-NAME,com.duolingo
