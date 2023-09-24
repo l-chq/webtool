@@ -16,4 +16,3 @@ payload:
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-SUFFIX,pinterest.ch
   - PROCESS-NAME,org.joinmastodon.android
-  - PROCESS-NAME,com.duolingo
