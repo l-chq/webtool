@@ -16,3 +16,4 @@ payload:
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-SUFFIX,pinterest.ch
   - PROCESS-NAME,org.joinmastodon.android
+  - DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com/
