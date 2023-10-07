@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com
   - DOMAIN-SUFFIX,podcastrepublic.net
   - PROCESS-NAME,com.microsoft.bing
+  - PROCESS-NAME,com.google.android.inputmethod.latin
