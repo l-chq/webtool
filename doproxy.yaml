@@ -18,3 +18,4 @@ payload:
   - PROCESS-NAME,org.joinmastodon.android
   - DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com
   - DOMAIN-SUFFIX,podcastrepublic.net
+  - PROCESS-NAME,com.microsoft.bing
