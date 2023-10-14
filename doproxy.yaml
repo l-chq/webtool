@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,podcastrepublic.net
   - PROCESS-NAME,com.microsoft.bing
   - PROCESS-NAME,com.google.android.inputmethod.latin
+  - DOMAIN-SUFFIX,faphouse.com
