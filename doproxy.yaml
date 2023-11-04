@@ -22,6 +22,7 @@ payload:
   - PROCESS-NAME,com.google.android.inputmethod.latin
   - DOMAIN-SUFFIX,faphouse.com
   - DOMAIN-SUFFIX,coomer.party
+  - DOMAIN-SUFFIX,coomer.su
   - DOMAIN-SUFFIX,bsky.app
   - DOMAIN-SUFFIX,bundlednotes.com
   - DOMAIN-SUFFIX,duolingo.com
