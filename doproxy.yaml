@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-SUFFIX,pinterest.ch
   - PROCESS-NAME,org.joinmastodon.android
+  - PROCESS-NAME,com.decad3nce.trunks
   - DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com
   - DOMAIN-SUFFIX,podcastrepublic.net
   - PROCESS-NAME,com.microsoft.bing
