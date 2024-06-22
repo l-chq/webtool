@@ -14,3 +14,4 @@ payload:
 
   # 郵箱：Infomaniak
   - DOMAIN-SUFFIX,mail.infomaniak.com
+  - DOMAIN-SUFFIX,eltngl.com
