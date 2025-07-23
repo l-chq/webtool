@@ -1,18 +1,13 @@
 payload:
   # 強制直連列表
 
-  # 郵箱：Gmail
   - DOMAIN-SUFFIX,pop.gmail.com
   - DOMAIN-SUFFIX,imap.gmail.com
   - DOMAIN-SUFFIX,smtp.gmail.com
-
-  # 郵箱：Outlook
   - DOMAIN-SUFFIX,outlook.office365.com
   - DOMAIN-SUFFIX,smtp.office365.com
   - DOMAIN-SUFFIX,imap-mail.outlook.com
   - DOMAIN-SUFFIX,smtp-mail.outlook.com
-
-  # 郵箱：Infomaniak
   - DOMAIN-SUFFIX,mail.infomaniak.com
   - DOMAIN-SUFFIX,eltngl.com
   - DOMAIN-SUFFIX,canvas.kingston.ac.uk
