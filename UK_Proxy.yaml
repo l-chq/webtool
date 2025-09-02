@@ -1,12 +1,12 @@
 # loqbox
-DOMAIN-SUFFIX,loqbox.com,🇬🇧 英國節點
+DOMAIN-SUFFIX,loqbox.com
 
 # 信用分查詢（自動連接）
-DOMAIN-SUFFIX,creditkarma.co.uk,🇬🇧 英國節點
-DOMAIN-SUFFIX,totallymoney.uk,🇬🇧 英國節點
-DOMAIN-SUFFIX,totallymoney.com,🇬🇧 英國節點
-DOMAIN-SUFFIX,clearscore.com,🇬🇧 英國節點
-DOMAIN-SUFFIX,checkmyfile.com,🇬🇧 英國節點
+DOMAIN-SUFFIX,creditkarma.co.uk
+DOMAIN-SUFFIX,totallymoney.uk
+DOMAIN-SUFFIX,totallymoney.com
+DOMAIN-SUFFIX,clearscore.com
+DOMAIN-SUFFIX,checkmyfile.com
 
 # Trading 212
 DOMAIN-SUFFIX, trading212.com
