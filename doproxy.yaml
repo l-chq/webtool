@@ -1,59 +1,55 @@
-payload:
-  # 強制代理列表
-  
-  - DOMAIN-SUFFIX,skiff.com
-  - DOMAIN-SUFFIX,genius.com
-  - DOMAIN-SUFFIX,same.energy
-  - DOMAIN-SUFFIX,kemono.party
-  - DOMAIN-SUFFIX,kemono.su
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,pixel.net
-  - DOMAIN-SUFFIX,ppt.cc
-  - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,bang-olufsen.com
-  - DOMAIN-SUFFIX,mastondon.art
-  - DOMAIN-KEYWORD,pinterest
-  - DOMAIN-SUFFIX,pinterest.ch
-  - PROCESS-NAME,org.joinmastodon.android
-  - PROCESS-NAME,com.decad3nce.trunks
-  - DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com
-  - DOMAIN-SUFFIX,podcastrepublic.net
-  - PROCESS-NAME,com.microsoft.bing
-  - PROCESS-NAME,com.google.android.inputmethod.latin
-  - DOMAIN-SUFFIX,faphouse.com
-  - DOMAIN-SUFFIX,coomer.party
-  - DOMAIN-SUFFIX,coomer.su
-  - DOMAIN-SUFFIX,bsky.app
-  - DOMAIN-SUFFIX,bundlednotes.com
-  - DOMAIN-SUFFIX,duolingo.com
-  - DOMAIN-SUFFIX,yummy.best
-  - DOMAIN-SUFFIX,annas-archive.org
-  - DOMAIN-SUFFIX,mygraphpaper.com
-  - DOMAIN-SUFFIX,afonsecailustrador.com
-  - DOMAIN-SUFFIX,linktr.ee
-  - DOMAIN-SUFFIX,goodnotes.com
-  - DOMAIN-SUFFIX,bangumi.moe
-  - DOMAIN-SUFFIX,shuzijumin.com
-  - DOMAIN-SUFFIX,picacomic.com
-  - DOMAIN-SUFFIX,hitomi.la
-  - DOMAIN-SUFFIX,onlyfans.com
-  - DOMAIN-SUFFIX,vivaldi.net
-  - DOMAIN-SUFFIX,wplace.live
-  - DOMAIN-SUFFIX,patreonusercontent.com
-  - DOMAIN-SUFFIX,myportfolio.com
-  - DOMAIN-SUFFIX,imagedelivery.net
-  - DOMAIN-SUFFIX,artisticdoctorateresources.com
-  - DOMAIN-SUFFIX,emojipedia.org
-  - DOMAIN-SUFFIX,researchgate.net
-  - DOMAIN-SUFFIX,bispublishers.com
-  - DOMAIN-SUFFIX,y2f5yf.me
-  - DOMAIN-SUFFIX,unlockt.me
-  - DOMAIN-SUFFIX,aalto.fi
-  - DOMAIN-SUFFIX,firefox.com
-  - DOMAIN-SUFFIX,manhuagui.com
-  - DOMAIN-SUFFIX,grokipedia.com
-  - DOMAIN-SUFFIX,podcasts.apple.com
-  - DOMAIN,amp-api.podcasts.apple.com
-  - DOMAIN-SUFFIX,mastodon.art
-  - DOMAIN-KEYWORD,mastodon
+# 強制代理列表
+
+DOMAIN-SUFFIX,skiff.com
+DOMAIN-SUFFIX,genius.com
+DOMAIN-SUFFIX,same.energy
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,pixel.net
+DOMAIN-SUFFIX,ppt.cc
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,bang-olufsen.com
+DOMAIN-KEYWORD,pinterest
+DOMAIN-SUFFIX,pinterest.ch
+PROCESS-NAME,org.joinmastodon.android
+PROCESS-NAME,com.decad3nce.trunks
+DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com
+DOMAIN-SUFFIX,podcastrepublic.net
+PROCESS-NAME,com.microsoft.bing
+PROCESS-NAME,com.google.android.inputmethod.latin
+DOMAIN-SUFFIX,faphouse.com
+DOMAIN-SUFFIX,coomer.party
+DOMAIN-SUFFIX,coomer.su
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bundlednotes.com
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,yummy.best
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,mygraphpaper.com
+DOMAIN-SUFFIX,afonsecailustrador.com
+DOMAIN-SUFFIX,linktr.ee
+DOMAIN-SUFFIX,goodnotes.com
+DOMAIN-SUFFIX,bangumi.moe
+DOMAIN-SUFFIX,shuzijumin.com
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,hitomi.la
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,vivaldi.net
+DOMAIN-SUFFIX,wplace.live
+DOMAIN-SUFFIX,patreonusercontent.com
+DOMAIN-SUFFIX,myportfolio.com
+DOMAIN-SUFFIX,imagedelivery.net
+DOMAIN-SUFFIX,artisticdoctorateresources.com
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,bispublishers.com
+DOMAIN-SUFFIX,y2f5yf.me
+DOMAIN-SUFFIX,unlockt.me
+DOMAIN-SUFFIX,aalto.fi
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN-SUFFIX,mastodon.art
+DOMAIN-KEYWORD,mastodon
