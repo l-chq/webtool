@@ -1,24 +1,21 @@
 # loqbox
 DOMAIN-SUFFIX,loqbox.com
-
-# 信用分查詢（自動連接）
+# 英國信用分查詢（自動連接）
 DOMAIN-SUFFIX,creditkarma.co.uk
 DOMAIN-SUFFIX,totallymoney.uk
 DOMAIN-SUFFIX,totallymoney.com
 DOMAIN-SUFFIX,clearscore.com
 DOMAIN-SUFFIX,checkmyfile.com
-
 # Trading 212
 DOMAIN-SUFFIX, trading212.com
 DOMAIN-SUFFIX, appsflyersdk.com
 DOMAIN-KEYWORD, trading212
-
+# 其他英國網站
 DOMAIN-KEYWORD, moneysavingexpert.com
 DOMAIN-KEYWORD, dealmoon.co.uk
-
-# 維也納應用藝術大學（可能只接受歐洲 IP 訪問）（
+# 維也納應用藝術大學（可能只接受歐洲 IP 訪問）
 DOMAIN-KEYWORD, dieangewandte.at
 DOMAIN-KEYWORD, uni-ak.ac.at
-
 # Revolut
-DOMAIN-KEYWORD, revolut.com
+DOMAIN-SUFFIX, revolut.com
+DOMAIN-KEYWORD, revolut
