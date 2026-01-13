@@ -1,12 +1,12 @@
 # 強制直連列表
-# > 本地
+# 本地
 ip-cidr,10.0.0.0/8
 ip-cidr,127.0.0.0/8
 ip-cidr,172.16.0.0/12
 ip-cidr,192.168.0.0/16
 ip-cidr,224.0.0.0/24
 ip-cidr,182.254.116.0/24
-# > 郵件相關
+# 郵件相關
 user-agent,mail
 DOMAIN-SUFFIX,pop.gmail.com
 DOMAIN-SUFFIX,imap.gmail.com
@@ -15,8 +15,10 @@ DOMAIN-SUFFIX,outlook.office365.com
 DOMAIN-SUFFIX,smtp.office365.com
 DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
-DOMAIN-SUFFIX,eltngl.com
-DOMAIN-SUFFIX,canvas.kingston.ac.uk
+# 尼康
 DOMAIN-SUFFIX,nikonimagespace.com
 DOMAIN-SUFFIX,nikonimglib.com
 DOMAIN-SUFFIX,nikon.com
+# 中國銀行
+domain-suffix,bankofchina.com
+domain-keyword,bankofchina
