@@ -1,1 +1,14 @@
-
+# Monzo
+DOMAIN-SUFFIX,monzo-alt.net
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,monzo.statuspage.io
+DOMAIN-SUFFIX,monzo.me
+DOMAIN-KEYWORD,monzo
+# HSBC
+DOMAIN-KEYWORD,hsbc
+# Wise UK
+DOMAIN,tw-avatar.s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,wise-static.com
+DOMAIN-SUFFIX,wise.tools
+DOMAIN-SUFFIX,wisepayments.net
+DOMAIN-SUFFIX,auth0.com
