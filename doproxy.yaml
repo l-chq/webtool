@@ -1,6 +1,13 @@
 # 強制代理列表
-
-DOMAIN-SUFFIX,skiff.com
+# 進程列表
+PROCESS-NAME,org.joinmastodon.android
+PROCESS-NAME,com.decad3nce.trunks
+PROCESS-NAME,com.microsoft.bing
+PROCESS-NAME,com.google.android.inputmethod.latin
+# Apple Podcast
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN,amp-api.podcasts.apple.com
+# 其他
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,same.energy
 DOMAIN-SUFFIX,e-hentai.org
@@ -11,12 +18,8 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,bang-olufsen.com
 DOMAIN-KEYWORD,pinterest
 DOMAIN-SUFFIX,pinterest.ch
-PROCESS-NAME,org.joinmastodon.android
-PROCESS-NAME,com.decad3nce.trunks
 DOMAIN-SUFFIX,na01.safelinks.protection.outlook.com
 DOMAIN-SUFFIX,podcastrepublic.net
-PROCESS-NAME,com.microsoft.bing
-PROCESS-NAME,com.google.android.inputmethod.latin
 DOMAIN-SUFFIX,faphouse.com
 DOMAIN-SUFFIX,coomer.party
 DOMAIN-SUFFIX,coomer.su
@@ -45,11 +48,8 @@ DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,bispublishers.com
 DOMAIN-SUFFIX,y2f5yf.me
 DOMAIN-SUFFIX,unlockt.me
-DOMAIN-SUFFIX,aalto.fi
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-SUFFIX,grokipedia.com
-DOMAIN-SUFFIX,podcasts.apple.com
-DOMAIN,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,mastodon.art
 DOMAIN-KEYWORD,mastodon
