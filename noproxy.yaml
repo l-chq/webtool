@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,outlook.office365.com
 DOMAIN-SUFFIX,smtp.office365.com
 DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
+DOMAIN,mail.infomaniak.com
 # 尼康
 DOMAIN-SUFFIX,nikonimagespace.com
 DOMAIN-SUFFIX,nikonimglib.com
