@@ -1,23 +1,26 @@
 # loqbox
 DOMAIN-SUFFIX,loqbox.com
 # 英國信用分查詢（自動連接）
-DOMAIN-SUFFIX, creditkarma.co.uk
-DOMAIN-SUFFIX, totallymoney.uk
-DOMAIN-SUFFIX, totallymoney.com
-DOMAIN-SUFFIX, clearscore.com
-DOMAIN-SUFFIX, checkmyfile.com
+DOMAIN-SUFFIX,creditkarma.co.uk
+DOMAIN-SUFFIX,totallymoney.uk
+DOMAIN-SUFFIX,totallymoney.com
+DOMAIN-SUFFIX,clearscore.com
+DOMAIN-SUFFIX,checkmyfile.com
 # Trading 212
-DOMAIN-SUFFIX, trading212.com
-DOMAIN-SUFFIX, appsflyersdk.com
-DOMAIN-KEYWORD, trading212
+DOMAIN-SUFFIX,trading212.com
+DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-KEYWORD,trading212
 # 其他英國網站
-DOMAIN-KEYWORD, moneysavingexpert.com
-DOMAIN-KEYWORD, dealmoon.co.uk
+DOMAIN-KEYWORD,moneysavingexpert.com
+DOMAIN-KEYWORD,dealmoon.co.uk
 # 大學官網
-DOMAIN-KEYWORD, dieangewandte.at
-DOMAIN-KEYWORD, uni-ak.ac.at
-DOMAIN-SUFFIX, aalto.fi
-DOMAIN-SUFFIX, ulisboa.pt
+DOMAIN-KEYWORD,dieangewandte.at
+DOMAIN-KEYWORD,uni-ak.ac.at
+DOMAIN-SUFFIX,aalto.fi
+DOMAIN-SUFFIX,ulisboa.pt
 # Revolut
-DOMAIN-SUFFIX, revolut.com
-DOMAIN-KEYWORD, revolut
+DOMAIN-SUFFIX,revolut.com
+DOMAIN-KEYWORD,revolut
+DOMAIN-KEYWORD,paysend
+DOMAIN-KEYWORD,remitly
+DOMAIN-SUFFIX,atlantic.money
