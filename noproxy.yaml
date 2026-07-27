@@ -17,19 +17,8 @@ DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
 DOMAIN-SUFFIX,hotmail.com
 DOMAIN,mail.infomaniak.com
-# 尼康
-DOMAIN-SUFFIX,nikonimagespace.com
-DOMAIN-SUFFIX,nikonimglib.com
-DOMAIN-SUFFIX,nikon.com
-# 中國銀行
-domain-suffix,bankofchina.com
-domain-keyword,bankofchina
-DOMAIN-SUFFIX,xvid.com
-# Apple
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,mail.me.com
 # other
 DOMAIN-SUFFIX,appmiu.com
 DOMAIN-SUFFIX,gov.pt
 DOMAIN-SUFFIX,vfsglobal.com
+DOMAIN-SUFFIX,xvid.com
