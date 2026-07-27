@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,ulisboa.pt
 # Revolut
 DOMAIN-SUFFIX,revolut.com
 DOMAIN-KEYWORD,revolut
+# EU Financial
 DOMAIN-KEYWORD,paysend
 DOMAIN-KEYWORD,remitly
 DOMAIN-SUFFIX,atlantic.money
