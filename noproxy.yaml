@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,smtp.office365.com
 DOMAIN-SUFFIX,imap-mail.outlook.com
 DOMAIN-SUFFIX,smtp-mail.outlook.com
 DOMAIN-SUFFIX,hotmail.com
-DOMAIN,mail.infomaniak.com
 # other
 DOMAIN-SUFFIX,appmiu.com
 DOMAIN-SUFFIX,gov.pt
